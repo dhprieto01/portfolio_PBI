@@ -13,7 +13,17 @@ Visualizar los resultados mediante informes y dashboards que resalten los aspect
 Adquirir los fundamentos básicos en la herramienta Power BI.
 Informe de Proyecto:
 
+
 ![alt text](<Imagen-Informe Proyecto.png>)
 
+
+
+
+
+
+
 Informe de Gestion:
+
+
+
 ![alt text](<Imagen-Informe Gestion.png>)
