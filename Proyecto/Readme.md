@@ -16,6 +16,4 @@ Informe de Proyecto:
 ![alt text](<Imagen-Informe Proyecto.png>)
 
 Informe de Gestion:
-
-![alt text](<Imagen-Informe Gestion-1.png>)
-
+![alt text](<Imagen-Informe Gestion.png>)
