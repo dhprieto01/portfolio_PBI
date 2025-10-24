@@ -11,8 +11,11 @@ Analizar los datos utilizando la función USERELATIONSHIP y otras técnicas de i
 Visualizar los resultados mediante informes y dashboards que resalten los aspectos clave de nuestro análisis, como tiempos de respuesta, costos asociados a la gestión de tickets, y cumplimiento de plazos de respuesta. 
 
 Adquirir los fundamentos básicos en la herramienta Power BI.
+Informe de Proyecto:
 
 ![alt text](<Imagen-Informe Proyecto.png>)
+
+Informe de Gestion:
 
 ![alt text](<Imagen-Informe Gestion-1.png>)
 
